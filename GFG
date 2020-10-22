@@ -39,11 +39,11 @@ class GFG {
 	{ 
 
 		// Test Case 1: 
-		String str1 = "Srujana@VVIT120"; 
+		String str1 = "Moienali@VVIT120"; 
 		System.out.println(isValidPassword(str1)); 
 
 		// Test Case 2: 
-		String str2 = "2nd CSE-C"; 
+		String str2 = "2nd CSE-D"; 
 		System.out.println(isValidPassword(str2)); 
 
 		// Test Case 3: 
@@ -51,7 +51,7 @@ class GFG {
 		System.out.println(isValidPassword(str3)); 
 
 		// Test Case 4: 
-		String str4 = "19BQ1A05H8"; 
+		String str4 = "19BQ1A05K5"; 
 		System.out.println(isValidPassword(str4)); 
 
 		// Test Case 5: 
